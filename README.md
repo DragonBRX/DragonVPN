@@ -1,1 +1,2 @@
-# DragonVPN
+ criptografia na classe dex , assets/config/config.json
+ precisamos quebrar a criptografia de criptografar os dois arquivos para pegar a base e deixar ela em código aberto no caso eu vou montar como APK usando MT manager então precisamos descobrir qual é a senha que tá que tô gravando a config.json e tirar completamente criptografia e descobriu o formato correto do Jason do config.json para conseguir colocar ele sem criptografia sem senha deixando código aberto , esse aplicativo não existe mais é um aplicativo antigo
